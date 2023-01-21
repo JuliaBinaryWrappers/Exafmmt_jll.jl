@@ -1,0 +1,97 @@
+[[Exafmmt]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0bb882c13ea8d274b686753220eade375592a123"
+libc = "glibc"
+march = "prescott"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "514dc7efdd60c0e938605ee0c5748abf35c25ec8c04f99d7076210bad0bf58bd"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.i686-linux-gnu-cxx03-march+prescott.tar.gz"
+[[Exafmmt]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02f6c0844134c29efbe714e6ad2f0b16772a3573"
+libc = "glibc"
+march = "prescott"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "121244416393485a1ec6cd31caf750fd423e54dbf605d38dc25c30072e10a0a9"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.i686-linux-gnu-cxx11-march+prescott.tar.gz"
+[[Exafmmt]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cccc7ceba2592cc3ff9dd8e31d7906bb27d4b00c"
+libc = "musl"
+march = "prescott"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "dae9c484a4107f2761bbe22380bbe5a087477b469cc84a5c750f8e16b3ce5d58"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.i686-linux-musl-cxx03-march+prescott.tar.gz"
+[[Exafmmt]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38078b38116f6b44e43346c853a9706f5edddcb9"
+libc = "musl"
+march = "prescott"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "58fb290ef2979f5e8010bac11e4c79dadc36f3fc4e4015967174409433fbaa57"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.i686-linux-musl-cxx11-march+prescott.tar.gz"
+[[Exafmmt]]
+arch = "x86_64"
+git-tree-sha1 = "c8887b4e9dedf36b33be2f3e7feb0c04273382c6"
+march = "avx"
+os = "macos"
+
+    [[Exafmmt.download]]
+    sha256 = "9f6b4410922eaebabc8e8c5afaed82bae61fcb6f72434a5795b45898f63746ef"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.x86_64-apple-darwin-march+avx.tar.gz"
+[[Exafmmt]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "434c6915767d484f1ec25cd7d5241b5993c8df75"
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "f6c5f934568aacddc4ff16faeab3383a21a65845114b43b1a34f74fa7d75d8e8"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.x86_64-linux-gnu-cxx03-march+avx.tar.gz"
+[[Exafmmt]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cd075a596c04a16d4a1dbc3690de3334adecca46"
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "0f04af7e3aa816e3a3309de6c36af0424a58c04c2f0dd8a8774fc5ab941c3fe3"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.x86_64-linux-gnu-cxx11-march+avx.tar.gz"
+[[Exafmmt]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b7c236bf3203263e15c4c12fa7337cc6880ca961"
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "8614927a16e65ca8e71f3f389af8949fcd9edd783d3b0ff8e3f37f2b7f794afc"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.x86_64-linux-musl-cxx03-march+avx.tar.gz"
+[[Exafmmt]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be727163042d7697586411bad9d5f9751abdc7e7"
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[Exafmmt.download]]
+    sha256 = "39fcb011f780441278ac6013a7c1806bd158c43621404a6951deb15b7911b313"
+    url = "https://github.com/JuliaBinaryWrappers/Exafmmt_jll.jl/releases/download/Exafmmt-v0.1.1+0/Exafmmt.v0.1.1.x86_64-linux-musl-cxx11-march+avx.tar.gz"
